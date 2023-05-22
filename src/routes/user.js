@@ -10,3 +10,4 @@ router.delete("/:id", wrap(c.remove));
 module.exports = router;
 // left a note for myself
 // minor wording
+// check perf here
