@@ -8,3 +8,4 @@ class Store {
 module.exports = Store;
 // revisit later
 // tidy up
+// minor wording
