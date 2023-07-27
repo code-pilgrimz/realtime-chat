@@ -44,3 +44,4 @@
 - TODO clean this
 - check perf here
 - revisit later
+- left a note for myself
