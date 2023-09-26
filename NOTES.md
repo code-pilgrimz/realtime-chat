@@ -56,3 +56,4 @@
 - off-by-one, fixed
 - left a note for myself
 - left a note for myself
+- check perf here
