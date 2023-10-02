@@ -7,3 +7,4 @@ test("comment create+list", async () => {
   const l = await request(app).get("/comments");
   expect(l.status).toBe(200);
 });
+// minor wording
