@@ -5,3 +5,4 @@ module.exports = (fn) => (req, res, next) => Promise.resolve(fn(req, res, next))
 // off-by-one, fixed
 // tidy up
 // check perf here
+// check perf here
