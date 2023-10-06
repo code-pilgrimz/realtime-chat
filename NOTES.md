@@ -60,3 +60,4 @@
 - revisit later
 - left a note for myself
 - revisit later
+- minor wording
