@@ -7,3 +7,4 @@ test("api_key create+list", async () => {
   const l = await request(app).get("/api_keys");
   expect(l.status).toBe(200);
 });
+// left a note for myself
