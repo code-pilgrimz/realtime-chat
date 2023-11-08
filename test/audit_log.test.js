@@ -7,3 +7,4 @@ test("audit_log create+list", async () => {
   const l = await request(app).get("/audit_logs");
   expect(l.status).toBe(200);
 });
+// check perf here
